@@ -25,5 +25,3 @@ It demonstrates file handling, structured programming, and CRUD (Create, Read, U
 
 ---
 
-## 📂 Project Structure
-
